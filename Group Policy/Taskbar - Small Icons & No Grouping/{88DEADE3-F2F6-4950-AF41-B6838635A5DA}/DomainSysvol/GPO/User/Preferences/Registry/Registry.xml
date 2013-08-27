@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RegistrySettings clsid="{A3CCFC41-DFDB-43a5-8D26-0FE8B954DA51}"><Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="TaskbarGlomLevel" status="TaskbarGlomLevel" image="11" changed="2011-02-08 11:50:29" uid="{F672C9E3-24B6-4FEA-A24C-D1D5A42298A7}"><Properties action="R" displayDecimal="0" default="0" hive="HKEY_CURRENT_USER" key="Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" name="TaskbarGlomLevel" type="REG_DWORD" value="00000001"/></Registry>
+	<Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="TaskbarSmallIcons" status="TaskbarSmallIcons" image="11" changed="2011-02-08 11:50:53" uid="{4A3A4280-3312-47C0-B9D7-6A9697606CD5}"><Properties action="R" displayDecimal="0" default="0" hive="HKEY_CURRENT_USER" key="Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" name="TaskbarSmallIcons" type="REG_DWORD" value="00000001"/></Registry>
+</RegistrySettings>
