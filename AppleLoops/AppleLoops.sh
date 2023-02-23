@@ -7,7 +7,6 @@
 /usr/bin/unzip -q /tmp/appleLoops.zip -d /tmp
 
 # Run the tool to download and install Apple Loops
-#Updated to call using python to fix Appleloops3 November 2020 update
 
 /usr/bin/python3 /tmp/appleLoops-master/appleloops --deployment -a garageband -q -m -o -u
 
