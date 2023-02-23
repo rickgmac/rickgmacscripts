@@ -13,7 +13,7 @@
 
 
 # Cleanup
-#rm -rf /tmp/appleLoops-master
+rm -rf /tmp/appleLoops-master
 rm -f /tmp/appleLoops.zip
 
 #Fix GB Downloader
